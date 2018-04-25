@@ -1,1 +1,4 @@
-�����ڱ���GUIgit���½��ĵ�һ���ļ���
+这是在本地GUIgit上新建的第一个文件。
+
+在github上的GUIRepo里新建了test分支。
+再在master分支上修改这次。
